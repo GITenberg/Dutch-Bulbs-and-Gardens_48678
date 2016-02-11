@@ -1,0 +1,27 @@
+_repo: Dutch-Bulbs-and-Gardens_48678
+contributor:
+  illustrator:
+    agent_name: Nixon, Mima
+    gutenberg_agent_id: '44918'
+    url: http://www.gutenberg.org/2009/agents/44918
+creator:
+  authors:
+  - agent_name: Lyall, Sophie
+    gutenberg_agent_id: '44917'
+    url: http://www.gutenberg.org/2009/agents/44917
+  - agent_name: Silberrad, Una Lucy
+    birthdate: 1872
+    deathdate: 1955
+    gutenberg_agent_id: '7781'
+    url: http://www.gutenberg.org/2009/agents/7781
+description: ''
+gutenberg_issued: '2015-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Dutch Bulbs and Gardens
+url: http://www.gutenberg.org/ebooks/48678
